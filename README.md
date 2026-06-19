@@ -26,3 +26,5 @@ This is a WPF-based Cybersecurity Awareness Chatbot developed for PROG6221 POE P
 -  **Typing Animation:** Realistic typing effect for bot responses
 
 ## Project Structure
+### [Watch on YouTube](https://youtu.be/nUi4p81sQto)
+[![Main](https://img.youtube.com/vi/nUi4p81sQto/0.jpg)](https://www.youtube.com/watch?v=nUi4p81sQto)
